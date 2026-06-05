@@ -8,7 +8,7 @@
     "descripcion": "La lapa roja es el ave nacional no oficial de Costa Rica y uno de los loros más espectaculares del mundo. Su plumaje rojo intenso con alas azules y amarillas la hace inconfundible. Vive en parejas de por vida y sus llamados son muy ruidosos.",
     "habitat": "Bosque tropical húmedo y seco",
     "estadoConservacion": "Preocupación menor",
-    "imagen": "/src/assets/img/lapa-roja.jpg",
+    "imagen": "/src/imagenes/LapaRoja.jpg",
     "audio": null,
     "curiosidad": "Las lapas forman parejas de por vida y pueden vivir hasta 50 años en libertad."
   },
@@ -21,8 +21,8 @@
     "descripcion": "El perezoso es uno de los mamíferos más lentos del mundo. Pasa la mayor parte de su vida colgado boca abajo en los árboles. Su metabolismo tan lento le permite vivir con muy poca energía, bajando al suelo solo una vez por semana.",
     "habitat": "Bosque tropical húmedo",
     "estadoConservacion": "Preocupación menor",
-    "imagen": "/src/assets/img/perezoso.jpg",
-    "audio": "/src/assets/audio/perezoso.mp3",
+    "imagen": "/src/imagenes/Perezoso.jpg",
+    "audio": null,
     "curiosidad": "Se mueve tan despacio que algas verdes crecen en su pelaje, dándole un camuflaje natural."
   },
   {
@@ -34,7 +34,7 @@
     "descripcion": "El tucán pico iris es una de las aves más reconocibles de Costa Rica. Su enorme pico multicolor, aunque parece pesado, es hueco y muy liviano. Se alimenta principalmente de frutas y es un importante dispersor de semillas en el bosque.",
     "habitat": "Bosque tropical y bordes de bosque",
     "estadoConservacion": "Preocupación menor",
-    "imagen": "/src/assets/img/tucan.jpg",
+    "imagen": "/src/imagenes/Tucan.jpg",
     "audio": null,
     "curiosidad": "El pico del tucán puede medir hasta un tercio de la longitud total de su cuerpo, pero pesa muy poco por ser hueco."
   },
@@ -47,7 +47,7 @@
     "descripcion": "La tortuga baula es la tortuga marina más grande del mundo. Anida en las playas de Costa Rica, especialmente en el Pacífico. Su caparazón flexible y gomoso la distingue de todas las demás tortugas del mundo.",
     "habitat": "Océano y playas arenosas",
     "estadoConservacion": "Vulnerable",
-    "imagen": "/src/assets/img/tortuga-baula.jpg",
+    "imagen": "/src/imagenes/Tortuga-baula.jpg",
     "audio": null,
     "curiosidad": "Puede bucear hasta 1,200 metros de profundidad y recorrer miles de kilómetros en sus migraciones."
   },
@@ -60,7 +60,7 @@
     "descripcion": "El pizote es un mamífero muy común en los parques nacionales de Costa Rica. Vive en grupos sociales de hembras y crías, y los machos adultos son solitarios. Su nariz alargada y movediza le permite buscar insectos y frutos en el suelo.",
     "habitat": "Bosque tropical, seco y húmedo",
     "estadoConservacion": "Preocupación menor",
-    "imagen": "/src/assets/img/pizote.jpg",
+    "imagen": "/src/imagenes/Pizote.jpg",
     "audio": null,
     "curiosidad": "Los pizotes pueden rotar su nariz 60 grados en cualquier dirección para olfatear bajo piedras y hojas."
   },
@@ -73,8 +73,8 @@
     "descripcion": "Conocida por su brillante color rojo y patas azules, esta pequeña rana es una de las más venenosas de Costa Rica. Su colorido sirve como advertencia para los depredadores. Solo mide unos 2 cm pero su veneno puede ser mortal.",
     "habitat": "Bosque tropical lluvioso",
     "estadoConservacion": "Preocupación menor",
-    "imagen": "/src/assets/img/rana-dardo.jpg",
-    "audio": "/src/assets/audio/rana-dardo.mp3",
+    "imagen": "/src/imagenes/Rana-dardo.jpg",
+    "audio": null,
     "curiosidad": "Los indígenas usaban su veneno para envenenar las puntas de sus dardos de cacería, de ahí su nombre."
   },
   {
@@ -86,7 +86,7 @@
     "descripcion": "El jaguar es el felino más grande de América y uno de los depredadores tope de los ecosistemas costarricenses. Habita principalmente en la Península de Osa y el Parque Nacional Tortuguero, donde se puede ver caminando por las playas de noche.",
     "habitat": "Selva tropical densa",
     "estadoConservacion": "Casi amenazado",
-    "imagen": "/src/assets/img/jaguar.jpg",
+    "imagen": "/src/imagenes/Jaguar.jpg",
     "audio": null,
     "curiosidad": "A diferencia de otros felinos grandes, el jaguar adora el agua y es un excelente nadador."
   },
@@ -99,7 +99,7 @@
     "descripcion": "El armadillo de nueve bandas es el único mamífero con un caparazón duro de placas óseas. Nocturno y solitario, excava madrigueras y se alimenta de insectos, larvas y pequeños vertebrados. Es muy común en todo el territorio costarricense.",
     "habitat": "Bosques, pastizales y áreas rurales",
     "estadoConservacion": "Preocupación menor",
-    "imagen": "/src/assets/img/armadillo.jpg",
+    "imagen": "/src/imagenes/Armadillo.jpg",
     "audio": null,
     "curiosidad": "Siempre nacen en grupos de 4 crías idénticas que son genéticamente el mismo individuo (cuatrillizos)."
   },
@@ -112,8 +112,8 @@
     "descripcion": "El mono carablanca es uno de los primates más inteligentes de Costa Rica. Vive en grupos sociales complejos y usa herramientas para obtener alimento. Es muy común en parques nacionales como Manuel Antonio y Carara.",
     "habitat": "Bosque seco, húmedo y manglar",
     "estadoConservacion": "Preocupación menor",
-    "imagen": "/src/assets/img/mono-carablanca.jpg",
-    "audio": "/src/assets/audio/loro.mp3",
+    "imagen": "/src/imagenes/Mono-CaraBlanca.jpg",
+    "audio": null,
     "curiosidad": "Son los únicos primates de América que usan herramientas de piedra para romper frutos y nueces duras."
   },
   {
@@ -125,7 +125,7 @@
     "descripcion": "La serpiente más peligrosa de Costa Rica por su veneno hemotóxico y su amplia distribución. Habita en casi todos los ambientes del país, desde el nivel del mar hasta los 2,000 metros. Su coloración críptica la hace muy difícil de detectar.",
     "habitat": "Bosques, plantaciones y áreas rurales",
     "estadoConservacion": "Preocupación menor",
-    "imagen": "/src/assets/img/terciopelo.jpg",
+    "imagen": "/src/imagenes/Terciopelo.jpg",
     "audio": null,
     "curiosidad": "Detecta el calor de sus presas con fosetas termorreceptoras ubicadas entre el ojo y la nariz."
   }
