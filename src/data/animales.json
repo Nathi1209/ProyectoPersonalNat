@@ -9,7 +9,7 @@
     "habitat": "Bosque tropical húmedo y seco",
     "estadoConservacion": "Preocupación menor",
     "imagen": "/src/imagenes/LapaRoja.jpg",
-    "audio": "/src/assets/audio/lapa-roja.mp3",
+    "audio": "/src/audios/Lapa Roja.mp3",
     "curiosidad": "Las lapas forman parejas de por vida y pueden vivir hasta 50 años en libertad."
   },
   {
@@ -22,7 +22,7 @@
     "habitat": "Bosque tropical húmedo",
     "estadoConservacion": "Preocupación menor",
     "imagen": "/src/imagenes/Perezoso.jpg",
-    "audio": null,
+    "audio": "/src/audios/Perezosotresdedos.mp3",
     "curiosidad": "Se mueve tan despacio que algas verdes crecen en su pelaje, dándole un camuflaje natural."
   },
   {
@@ -87,7 +87,7 @@
     "habitat": "Selva tropical densa",
     "estadoConservacion": "Casi amenazado",
     "imagen": "/src/imagenes/Jaguar.jpg",
-    "audio": "/src/assets/audio/jaguar.mp3",
+    "audio": "/src/audios/Jaguar.mp3",
     "curiosidad": "A diferencia de otros felinos grandes, el jaguar adora el agua y es un excelente nadador."
   },
   {

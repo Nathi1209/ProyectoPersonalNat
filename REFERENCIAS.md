@@ -35,9 +35,9 @@
 
 | Archivo | Animal | Herramienta | Tipo |
 |---------|--------|-------------|------|
-| lapa-roja.mp3 | Lapa Roja | ttsmp3.com | Síntesis de voz IA |
-| perezoso.mp3 | Perezoso de Tres Dedos | ttsmp3.com | Síntesis de voz IA |
-| jaguar.mp3 | Jaguar | ttsmp3.com | Síntesis de voz IA |
+| Lapa Roja.mp3 | Lapa Roja | ttsmp3.com | Síntesis de voz IA |
+| Perezosotresdedos.mp3 | Perezoso de Tres Dedos | ttsmp3.com | Síntesis de voz IA |
+| Jaguar.mp3 | Jaguar | ttsmp3.com | Síntesis de voz IA |
 
 ### Justificación del uso de IA en audios
 
