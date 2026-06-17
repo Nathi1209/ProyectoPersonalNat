@@ -45,7 +45,7 @@ Enciclopedia web interactiva de la fauna silvestre de Costa Rica. El usuario pue
 | CSS3 | — | Estilos, variables de tema y responsividad |
 
 ## Uso de Inteligencia Artificial
-Los audios de narración fueron generados con herramientas de IA (síntesis de voz). Los guiones fueron redactados manualmente. Ver sección de audios en [REFERENCIAS.md](./REFERENCIAS.md).
+Los audios de narración fueron generados con **ElevenLabs** (elevenlabs.io), herramienta de síntesis de voz basada en IA. Se utilizó el modelo *Eleven Multilingual v2* con la voz *Hope*. Los guiones fueron redactados manualmente por la autora. Ver justificación completa en [REFERENCIAS.md](./REFERENCIAS.md).
 
 ## Cómo ejecutar
 ```bash

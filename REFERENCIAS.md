@@ -35,15 +35,18 @@
 
 | Archivo | Animal | Herramienta | Tipo |
 |---------|--------|-------------|------|
-| Lapa Roja.mp3 | Lapa Roja | ttsmp3.com | Síntesis de voz IA |
-| Perezosotresdedos.mp3 | Perezoso de Tres Dedos | ttsmp3.com | Síntesis de voz IA |
-| Jaguar.mp3 | Jaguar | ttsmp3.com | Síntesis de voz IA |
+| Lapa Roja.mp3 | Lapa Roja | ElevenLabs | Síntesis de voz IA |
+| Perezosotresdedos.mp3 | Perezoso de Tres Dedos | ElevenLabs | Síntesis de voz IA |
+| Jaguar.mp3 | Jaguar | ElevenLabs | Síntesis de voz IA |
 
 ### Justificación del uso de IA en audios
 
-Los audios de narración fueron generados con la herramienta de síntesis de voz **ttsmp3.com**, una plataforma de inteligencia artificial de texto a voz. Se utilizó la voz en español "Conchita" para garantizar una narración clara y consistente.
+Los audios de narración fueron generados con **ElevenLabs** (https://elevenlabs.io), una plataforma de inteligencia artificial especializada en síntesis de voz realista. Se utilizó el modelo **Eleven Multilingual v2** con la voz **Hope** para lograr una narración clara, natural y en español.
 
-**Los guiones fueron redactados íntegramente por la autora del proyecto.** La herramienta de IA se empleó exclusivamente para la conversión de texto a audio, no para generar el contenido informativo. Esta decisión se justifica por la accesibilidad que brindan los audios a usuarios con dificultades de lectura y por la calidad de pronunciación en español técnico-científico.
+**Los guiones fueron redactados íntegramente por la autora del proyecto.** La herramienta de IA se empleó exclusivamente para la conversión de texto a voz, no para generar el contenido informativo. Esta decisión se justifica por:
+- La calidad de pronunciación en español técnico-científico (nombres de especies, términos ecológicos).
+- La accesibilidad que brindan los audios a usuarios con dificultades de lectura.
+- La consistencia de voz entre las tres narraciones del proyecto.
 
 ---
 
