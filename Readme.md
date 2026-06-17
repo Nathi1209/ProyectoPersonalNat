@@ -78,4 +78,4 @@ ProyectoPersonalNat/
 Ver archivo [REFERENCIAS.md](./REFERENCIAS.md) para fuentes de imágenes, textos y audios.
 
 ---
-*Estudiante: Nathalie — IF7102 Lenguajes para Aplicaciones Comerciales, 2026*
+*Estudiante: Nathalie Tamara Caballero Jarquín C31386 — IF7102 Lenguajes para Aplicaciones Comerciales, 2026*
